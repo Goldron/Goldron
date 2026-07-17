@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Goldron/Goldron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** with over **26 years of experience** in software development.
 
-Here are some ideas to get you started:
+I spent **14 years in the video game industry** as a **graphics artist and developer**, working on real-time graphics and interactive experiences, before moving toward **web development, client-server architectures, and distributed systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+Today, I design and build:
+
+- ☁️ SaaS platforms
+- 🏢 Enterprise applications
+- 🔌 REST APIs and distributed systems
+- 🌐 Scalable web solutions
+- 🏗️ Software architectures focused on performance and reliability
+
+My work focuses on creating clean, maintainable, and efficient software solutions with strong attention to:
+
+- Software architecture
+- Performance optimization
+- System reliability
+- Code quality
+- Scalability
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing software engineering, open-source projects, architecture, and innovative technologies.
+
+Regards,  
