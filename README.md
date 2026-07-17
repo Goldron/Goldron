@@ -16,14 +16,6 @@ Today, I design and build:
 - 🌐 Scalable web solutions
 - 🏗️ Software architectures focused on performance and reliability
 
-My work focuses on creating clean, maintainable, and efficient software solutions with strong attention to:
-
-- Software architecture
-- Performance optimization
-- System reliability
-- Code quality
-- Scalability
-
 ---
 
 ## 📫 Let's Connect
